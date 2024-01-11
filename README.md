@@ -20,5 +20,5 @@ collection of files when we update this repository (we add missing files from
 time to time), but the documents on the Belgian Official Journal can change.
 
 This repository contains 202223 legislative texts.
- 
+
 Last updated: 2024-01-11.
