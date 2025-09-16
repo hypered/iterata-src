@@ -19,6 +19,6 @@ $ git diff --no-index texts/2019/01/2019012116.html a
 collection of files when we update this repository (we add missing files from
 time to time), but the documents on the Belgian Official Journal can change.
 
-This repository contains 207595 legislative texts.
+This repository contains 207608 legislative texts.
 
-Last updated: 2025-09-15.
+Last updated: 2025-09-16.
