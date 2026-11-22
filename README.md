@@ -21,4 +21,4 @@ time to time), but the documents on the Belgian Official Journal can change.
 
 This repository contains 210748 legislative texts.
 
-Last updated: 2026-11-20.
+Last updated: 2026-11-22.
